@@ -1,0 +1,6 @@
+{
+  "name": "Cold Outreach Pipeline Generator",
+  "description": "AI-powered cold outreach engine analyzing student candidates to generate disruptive pattern-interrupt DMs, buddy CTAs, and pipeline tracking records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
